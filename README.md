@@ -6,7 +6,7 @@ Dragon Dreaming is an open-source project methodology rooted in wisdom from Abor
 
 ## Why This Skill?
 
-Most projects fail the same way: rush from idea to execution, skip planning, never reflect. Dragon Dreaming fixes this by splitting every project into **4 equal phases** — and an AI that actually enforces the discipline.
+There's a familiar pattern in projects: jumping from idea to execution, skipping the dream, never pausing to reflect on what was learned. Dragon Dreaming offers a different way — giving each phase of a project the same weight, guided by an AI facilitator.
 
 ```
         DREAMING
