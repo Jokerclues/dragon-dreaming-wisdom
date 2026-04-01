@@ -42,7 +42,7 @@ Copy the skill folder to your Claude Code skills directory:
 git clone https://github.com/Jokerclues/dragon-dreaming-wisdom.git
 
 # Copy the skill
-cp -r dragon-dreaming-skill/dragon-dreaming-wisdom ~/.claude/skills/
+cp -r dragon-dreaming-wisdom/dragon-dreaming-wisdom ~/.claude/skills/
 
 # That's it. Start Claude Code and say "dragon dreaming" or "new project".
 ```
@@ -50,7 +50,7 @@ cp -r dragon-dreaming-skill/dragon-dreaming-wisdom ~/.claude/skills/
 Or symlink if you want to stay synced with updates:
 
 ```bash
-ln -s "$(pwd)/dragon-dreaming-skill/dragon-dreaming-wisdom" ~/.claude/skills/dragon-dreaming
+ln -s "$(pwd)/dragon-dreaming-wisdom/dragon-dreaming-wisdom" ~/.claude/skills/dragon-dreaming-wisdom
 ```
 
 **Note on state:** The skill operates within your conversation context. It does not persist project state between sessions. For multi-session projects, it will ask you where you left off and which phase you're in. You can connect it to your own project tracking (Notion, Linear, markdown files — whatever you use).
@@ -105,7 +105,7 @@ to Planning?"
 ## File Structure
 
 ```
-dragon-dreaming-skill/
+dragon-dreaming-wisdom/                    # repo root (after git clone)
 ├── README.md                              # You are here
 ├── LICENSE                                # MIT
 └── dragon-dreaming-wisdom/                # <- copy this folder to ~/.claude/skills/
