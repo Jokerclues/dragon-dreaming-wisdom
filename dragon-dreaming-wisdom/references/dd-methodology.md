@@ -7,7 +7,7 @@
 
 ## Core Philosophy
 
-Dragon Dreaming is a project design methodology rooted in Aboriginal Australian wisdom and systems thinking. Created by John Croft and Vivienne Elanta in Australia in the 1990s, drawing particularly from the knowledge of the Mardu and Nyungar peoples of Western Australia.
+Dragon Dreaming is a project design methodology rooted in wisdom from Aboriginal Australian culture — one of the oldest living cultures on Earth, spanning at least 60,000 years. John Croft and Vivienne Elanta bridged this ancient wisdom into a modern methodology in the 1990s, drawing particularly from the Mandjilidjara Martu people (source of Pinakarri — deep listening) and the Whadjuk Noongar people (source of Karabirrdt — the spider web planning tool) of Western Australia. Croft received approval from traditional elders for the use of these concepts.
 
 **"Dragon"** = fears, obstacles, insecurities. They are TEACHERS, not enemies. Every dragon you face carries a gift — if you're willing to listen.
 

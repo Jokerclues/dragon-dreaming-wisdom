@@ -2,7 +2,7 @@
 
 An AI facilitator for the [Dragon Dreaming](https://dragondreaming.org) project methodology, built as a [Claude Code](https://claude.ai/code) skill.
 
-Dragon Dreaming is an open-source project design methodology created by **John Croft and Vivienne Elanta**, rooted in Aboriginal Australian wisdom (particularly from the Mardu and Nyungar peoples) and systems thinking. Used in 56+ countries since the 1990s.
+Dragon Dreaming is an open-source project methodology rooted in wisdom from Aboriginal Australian culture — one of the oldest living cultures on Earth (~60,000 years). **John Croft and Vivienne Elanta** bridged this ancient wisdom into a modern framework, drawing from the Mandjilidjara Martu and Whadjuk Noongar peoples of Western Australia. Used in 56+ countries since the 1990s.
 
 ## Why This Skill?
 
