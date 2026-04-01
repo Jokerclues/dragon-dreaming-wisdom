@@ -152,7 +152,7 @@ This is an open-source project and contributions are welcome. Dragon Dreaming ha
 ## Credits
 
 - **Dragon Dreaming methodology**: [John Croft](https://dragondreaming.org) and Vivienne Elanta, Dragon Dreaming International
-- **Skill development**: Eliyahu, [House of Clues](https://houseofclues.co.il)
+- **Skill development**: Eliyahu, [House of Clues](https://houseofclues.com)
 - **Dragon Dreaming is open-source**: Free to use, share, and adapt under Creative Commons
 
 ## License
